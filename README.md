@@ -36,6 +36,6 @@
 
   ![Ben Lau's github stats](https://github-readme-stats.vercel.app/api?username=ben-lau&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&count_private=true&include_all_commits=true)
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-lau&layout=compact)
+  ![Ben Lau's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-lau&layout=compact)
 
 </div>
