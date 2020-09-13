@@ -4,9 +4,9 @@
 
   <img src="https://komarev.com/ghpvc/?username=ben-lau&label=Profile+Visits&color=dc143c">
 
-  😄 love programming, love coding
-  🔭 I’m currently working on Front-End Development
-  🌱 I’m currently learning Full-Stack Development
+  - 😄 love programming, love coding
+  - 🔭 I’m currently working on Front-End Development
+  - 🌱 I’m currently learning Full-Stack Development
 
   ### Languages and Tools
 
