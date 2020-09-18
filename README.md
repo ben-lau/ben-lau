@@ -8,6 +8,7 @@
   - 🔭 I’m currently working on Front-End Development
   - 🌱 I’m currently learning Full-Stack Development
   - ✨ If you like me, give me a star or subscription~
+  - 📚 My blog here --> [blog](https://ben-lau.github.io/)
 
   ### Languages and Tools
 
