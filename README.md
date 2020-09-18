@@ -7,6 +7,7 @@
   - 😄 love programming, love coding
   - 🔭 I’m currently working on Front-End Development
   - 🌱 I’m currently learning Full-Stack Development
+  - ✨ If you like me, give me a star or subscription~
 
   ### Languages and Tools
 
