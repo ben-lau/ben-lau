@@ -25,7 +25,7 @@
   ### Frameworks
 
   [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-	[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
+  [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
   [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
   [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
   [![Solid](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff)](#)
@@ -68,6 +68,9 @@
   [![Mercedes](https://img.shields.io/badge/Mercedes-%23000?style=flat&logo=Mercedes&logoColor=fff)](#)
   [![Tesla](https://img.shields.io/badge/Tesla-%23C00?style=flat&logo=Tesla&logoColor=fff)](#)
   [![Honda](https://img.shields.io/badge/Honda-%23EB0A1E?style=flat&logo=Honda&logoColor=fff)](#)
+  [![Apple](https://img.shields.io/badge/Apple-000?style=flat&logo=Apple&logoColor=fff)](#)
+  [![Xiaomi](https://img.shields.io/badge/xiaomi-ff6a00?style=flat&logo=xiaomi&logoColor=fff)])(#)
+  [![Static Badge](https://img.shields.io/badge/SpaceX-000?style=flat&logo=spaceX&logoColor=fff)](#)
 
 ## Stats
 
