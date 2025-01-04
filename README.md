@@ -69,7 +69,7 @@
   [![Tesla](https://img.shields.io/badge/Tesla-%23C00?style=flat&logo=Tesla&logoColor=fff)](#)
   [![Honda](https://img.shields.io/badge/Honda-%23EB0A1E?style=flat&logo=Honda&logoColor=fff)](#)
   [![Apple](https://img.shields.io/badge/Apple-000?style=flat&logo=Apple&logoColor=fff)](#)
-  [![Xiaomi](https://img.shields.io/badge/xiaomi-ff6a00?style=flat&logo=xiaomi&logoColor=fff)])(#)
+  [![Xiaomi](https://img.shields.io/badge/xiaomi-ff6a00?style=flat&logo=xiaomi&logoColor=fff)](#)
   [![Static Badge](https://img.shields.io/badge/SpaceX-000?style=flat&logo=spaceX&logoColor=fff)](#)
 
 ## Stats
